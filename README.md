@@ -10,8 +10,4 @@
 
 <b>active_jobs.sh</b> - How many jobs are running on the cluster
 
-<b>backup_defaultdb.sh</b> - Backups the defaultdb database.  Full and incremental.
-
-<b>backup_bank.sh</b> - Backups the bank database.  Full and incremental
-
 <b>backup_and_check_success.sh</b> - Backup a database and monitor the process.
